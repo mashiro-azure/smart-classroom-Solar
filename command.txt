@@ -1,0 +1,1 @@
+telegraf.exe --config solar_data_retrieve.conf --once --debug
